@@ -17,6 +17,6 @@ data:
     - name: slack_receiver
       slack_configs:
       - send_resolved: true
-        username: '<SLACK_USER>'
-        api_url: '<APP_URL>'
-        channel: '#<CHANNEL>'
+        username: 'summery17'
+        api_url: 'mycompany-s6a6487.slack.com'
+        channel: '#myproject'
